@@ -1,0 +1,11 @@
+{
+  "name": "ebook",
+  "version": "1.0.0",
+  "description": "Livro com 52 profissionais de padaria",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Paulo José",
+  "license": "ISC"
+}
